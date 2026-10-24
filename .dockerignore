@@ -1,0 +1,15 @@
+node_modules
+dist
+.git
+.github
+.vscode
+.idea
+*.log
+.env
+.env.*
+!.env.example
+database/*.json
+!database/.gitkeep
+tmp
+coverage
+README.md

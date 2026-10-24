@@ -147,7 +147,7 @@ See the ""LICENSE"" (LICENSE) file for the applicable license terms.
 
 ---
 
-Built with teamwork by F Society ❤️
+Built with teamwork by F Society ❤️ ( Aditya Patel , Anjum Nisha , Anushka dubey , Aradhya Srivastava )
 
 CodeLens AI — Understand your code. Improve your code.
 

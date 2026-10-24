@@ -1,0 +1,6 @@
+{
+  "name": "CodeLens AI",
+  "description": "An AI-powered full-stack code review assistant that analyzes bugs, performance, security, and quality with historical review persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
